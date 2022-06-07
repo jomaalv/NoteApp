@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "792999424042",
+    "project_id": "yp-notes",
+    "storage_bucket": "yp-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792999424042:android:7ec9ee0b8128576c861353",
+        "android_client_info": {
+          "package_name": "com.example.kareem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792999424042-d01ntm84qrsdrf0vfbsrj3epd31dpf6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASv3eXB_H6AutCtHzIaK2ePiBJidCUXlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792999424042-d01ntm84qrsdrf0vfbsrj3epd31dpf6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
